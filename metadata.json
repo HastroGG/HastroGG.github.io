@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Yapay Zeka Çalışma Arkadaşım YEDEK",
+  "description": "Kendi adınızı ve yapay zeka arkadaşınızın adını belirleyerek tamamen kişiselleştirilmiş bir öğrenme deneyimi yaşayın. Öğrenmek istediğiniz konular için yapay zeka ile açıklayıcı görseller ve metinler oluşturun, sesli komutlarla sohbet edin, çalışma planları hazırlayın ve testler çözün.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
