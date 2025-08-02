@@ -242,7 +242,8 @@ const App = () => {
   // --- Effects ---
   useEffect(() => {
     // API Key check
-    const apiKey = process.env.API_KEY;
+    //const apiKey = process.env.API_KEY;
+    const apiKey = import.meta.env.VITE_API_KEY;
     if (!apiKey) {
       console.error("API key is missing. Please set the API_KEY environment variable.");
       return;
